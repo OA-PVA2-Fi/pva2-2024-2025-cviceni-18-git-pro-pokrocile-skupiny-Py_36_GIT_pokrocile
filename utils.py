@@ -18,3 +18,6 @@ def odecti(a, b):
     :return: rozdíl a a b
     """
     return a - b
+
+def nasob(a, b):
+    return a * b
