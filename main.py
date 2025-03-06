@@ -1,4 +1,5 @@
-from utils import secti
+from utils import secti, nasob
+
 
 def main():
     x = 5
@@ -8,3 +9,11 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+def nasobeni():
+    a = 3
+    b = 5
+    vysledek_nasob = nasob(a,b)
+    print (f'Výsledek násobení {a} a {b} je: {vysledek_nasob}')
+
