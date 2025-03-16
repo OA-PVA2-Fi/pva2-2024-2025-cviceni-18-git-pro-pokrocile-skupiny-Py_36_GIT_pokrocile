@@ -14,10 +14,11 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
     - Vytvořte si vlastní fork tohoto repozitáře.
     - Prohlédněte si strukturu projektu, soubory a obsah.
 2. Vytvoření větví:
-   - Vytvořte novou větev pojmenovanou podle vzoru feature/nova-funkce a implementujte novou funkci například pro násobení.
+   - Vytvořte novou větev pojmenovanou podle vzoru feature/prijmeni-nova-funkce a implementujte novou funkci například pro násobení.
+   - Nezapomeňte, že pracujete celá třída na jediném velkém projektu. Funkce musí být unikátní a neopakovat se.
 
 3. Obsahové změny
-   - Upravte `utils.py` a přidejte funkci nasob(a, b).
+   - Upravte `utils.py` a přidejte svou novou funkci.
    - Upravte `main.py` a zavolejte novou funkci.
    - Vytvořte nový soubor `.gitignore` a přidejte do něj obsah uvedený níže.
 
