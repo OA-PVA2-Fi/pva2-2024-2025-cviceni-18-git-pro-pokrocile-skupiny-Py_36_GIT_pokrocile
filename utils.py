@@ -21,3 +21,9 @@ def odecti(a, b):
 
 def deleni(a,b):
     return a / b
+
+def umocneni_cisel(a,b):
+    umocnene_cislo = a**b
+    # umocní číslo a zadaným číslem b
+    # vrátí umocněné číslo pomocí return
+    return umocnene_cislo

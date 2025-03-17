@@ -1,0 +1,1 @@
+Přidáná funkce na umocnění čísel zadaných do argumentu funkce
