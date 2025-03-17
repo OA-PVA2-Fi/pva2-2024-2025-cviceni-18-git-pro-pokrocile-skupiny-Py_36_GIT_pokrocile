@@ -29,10 +29,11 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
 5. Vytvoření Pull Request:
    - Vytvořte Pull Request z nové větve do main a požádejte souseda o code review.
    - Můžete také přidat komentáře k úpravám v rámci Pull Requestu.
+   - V pull requestu bude zahrnut odkaz na související issue a stručný popis změn.
 
-6. Revize kódu (Code review):
+   - **Revize kódu (Code review):**
     - Přidělení recenzenta
-      - Přidejte souseda nebo jiného spolužáka jako recenzenta.
+      - Přidejte souseda nebo jiného spolužáka jako recenzenta. Zkontrolujte si, že recentenz není už přiřazen k žádnému úkolu. Každý bude recenzovat jen jednu funkci/pull request.
     - Co kontrolovat
       - Správnost a čitelnost kódu.
       - Dodržení konvencí a best practices.
