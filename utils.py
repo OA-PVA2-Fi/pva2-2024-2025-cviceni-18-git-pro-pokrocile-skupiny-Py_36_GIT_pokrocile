@@ -21,3 +21,13 @@ def odecti(a, b):
 
 def deleni(a,b):
     return a / b
+
+def obvod_ctverce(strana):
+    return 4 * strana
+
+strana = int(input("Zadejte délku strany čtverce: "))
+
+obvod = obvod_ctverce(strana)
+
+print(f"Obvod čtverce o straně {strana} je {obvod}.")
+
