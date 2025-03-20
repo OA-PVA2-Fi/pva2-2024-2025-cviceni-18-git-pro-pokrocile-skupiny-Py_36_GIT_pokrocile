@@ -5,7 +5,7 @@ def main():
     x = 5
     y = 10
     vysledek = secti(x, y)
-    print(f"Vysledek sčítání {x} a {y} je: {vysledek}")
+    print(f"Vysledek scítání {x} a {y} je: {vysledek}")
     obsah_trojuhelniku(1,x,y)
     print(f"Obsah trojuhelniku {x} a {y} je: {vysledek}")
 
