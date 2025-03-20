@@ -21,3 +21,6 @@ def odecti(a, b):
 
 def deleni(a,b):
     return a / b
+
+def obvod_kruznice(r):
+    return 2*3.14*r
